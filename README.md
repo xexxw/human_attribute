@@ -9,4 +9,4 @@ Train ResNet18 on CelebA dataset for facial attribute classification with Pytorc
 pip install kymatio
 
 # Getting Started
-python gui_human_attr.pys
+python gui_human_attr.py
